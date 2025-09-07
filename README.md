@@ -19,7 +19,7 @@ This repository hosts the **Indian Software Developers Association (ISDA) Global
 ## File Structure
 - `index.html` — Main website displaying the full license and EXHIBIT A.
 - `README.md` — This documentation file.
-- `LICENSE_ISDA.md` (optional) — Plain Markdown version of the license.
+
 
 ## Attribution
 © 2025 Indian Software Developers Association (ISDA)  
